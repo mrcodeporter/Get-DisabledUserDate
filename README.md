@@ -12,15 +12,6 @@ The "Get-DisabledUserDate" script is a powerful tool designed to retrieve and di
       <li>Security Auditing: The script supports security auditing processes by providing administrators with valuable information about disabled user accounts. They can monitor and analyze disabled accounts to identify potential security breaches, unauthorized access attempts, or suspicious activities within the Active Directory environment.</li>
       <li>Customization and Integration: The script may offer customization options, allowing administrators to tailor the output format or filter the results based on specific criteria. It may also integrate with other scripts or tools to enhance its functionality or automate certain processes related to disabled user account management.</li>
    
-    <h2>Contributing</h2>
-    <p>If you would like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.</p>
-    <h2>License</h2>
-    <h2>License</h2>
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-<h2>Contributing</h2>
-Contributions are welcome! Please feel free to submit a pull request with any updates or improvements you would like to make.
-
 <h2>Future Improvements</h2>
 There are several areas where this script can be improved in the future:
 
