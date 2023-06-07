@@ -11,16 +11,7 @@ The "Get-DisabledUserDate" script is a powerful tool designed to retrieve and di
       <li>User Account Management: By providing the disabled date of user accounts, the script assists administrators in effective user account management. They can identify and track disabled accounts, enabling them to perform necessary actions like re-enabling accounts, deleting obsolete accounts, or managing user access based on their disabled dates.</li>
       <li>Security Auditing: The script supports security auditing processes by providing administrators with valuable information about disabled user accounts. They can monitor and analyze disabled accounts to identify potential security breaches, unauthorized access attempts, or suspicious activities within the Active Directory environment.</li>
       <li>Customization and Integration: The script may offer customization options, allowing administrators to tailor the output format or filter the results based on specific criteria. It may also integrate with other scripts or tools to enhance its functionality or automate certain processes related to disabled user account management.</li>
-      
-    
-    </ul>
-    <h2>Usage</h2>
-    <p>To use Exchange Email Activity Report, simply run the PowerShell script and follow the prompts to enter the search criteria. The script will then display the results in the console or export them to a CSV or HTML file.</p>
-    <h2>Requirements</h2>
-    <ul>
-      <li>Exchange Online PowerShell module</li>
-      <li>PowerShell 5.1 or later</li>
-    </ul>
+   
     <h2>Contributing</h2>
     <p>If you would like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.</p>
     <h2>License</h2>
