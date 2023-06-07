@@ -25,7 +25,3 @@ There are several areas where this script can be improved in the future:
   </html>
 <li>Ervin - <i>Initial work</i> - <a href="https://github.com/mrcodeporter"</a></li>
 </ul>
-<h2>Acknowledgments</h2>
-<ul>
-<li>Special thanks to the Exchange Online documentation for providing valuable information on working with Exchange Online in PowerShell.</li>
-</ul>
